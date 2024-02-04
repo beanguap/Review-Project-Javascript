@@ -1,7 +1,8 @@
 ## Review Carasoul - Vanilla JavaScript 
 
 This is a basic carousel/slider made with vanilla JavaScript, HTML, and CSS. It's easy to use and doesn't rely on any external libraries.
-Features
+
+## Features
 
   * Simple design.
   * Compatible with modern web browsers.
