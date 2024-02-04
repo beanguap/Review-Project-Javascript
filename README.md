@@ -6,11 +6,10 @@ Features
   * Simple design.
   * Compatible with modern web browsers.
 
-
-🔧 Check out Project & Connect with Developer
+## 🔧 Check out Project & Connect with Developer
 
   * X/Twitter: https://x.com/Pybeancoder/status/1753896788094775703?s=20
   * LinkedIn: https://www.linkedin.com/in/jeriel-martinez-flores/
 
-🧑🏽‍💻 Keep on building!
+## 🧑🏽‍💻 Keep on building!
 
